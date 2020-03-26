@@ -5,7 +5,7 @@ This is the first version: quick and dirty!
 Occurrences per city started to be reported in March, 19th:  https://coronavirus.es.gov.br/noticias 
 
 ### Dark Mode
-![Alt Text](./gifs/covid019-ES-2020-03-24-black.gif)
+![Alt Text](./gifs/covid019-ES-black.gif)
 
 ### Normal Mode
-![Alt Text](./gifs/covid019-ES-2020-03-24.gif)
+![Alt Text](./gifs/covid019-ES.gif)
