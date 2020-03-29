@@ -9,3 +9,6 @@ Occurrences per city started to be reported in March, 19th:  https://coronavirus
 
 ### Normal Mode
 ![Alt Text](./gifs/covid019-ES.gif)
+
+## Confirmed Cases Only
+![Alt Text](./gifs/covid019-ES-confirmado-black.gif)
